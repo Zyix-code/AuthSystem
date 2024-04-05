@@ -41,33 +41,18 @@
 
 <p align="center">
   <samp>
-     Auth System nasıl çalışır?
+     Auth System Nasıl Çalışır?
     
-The Auth System application functions as an authentication and user management system with the primary purpose of authorizing users to access a specific application based on their license key.
+Auth System uygulaması, kullanıcıların lisans anahtarlarına dayalı olarak belirli bir uygulamaya erişim yetkisi vermek amacıyla tasarlanmıştır.
 
-### User Authentication
+## Kullanım
+- Uygulamayı kullanabilmek için öncelikle veritabanını yükleyin ve ardından Admins tablosundan bir admin kullanıcısı oluşturun. Şifrenizin MD5 yöntemiyle şifrelenmiş olduğundan emin olun.
 
-When a user attempts to access the application, the Auth System first authenticates the user's credentials, including their username, password, and license key. 
+- Programı derledikten sonra admin kullanıcısıyla giriş yapın. Güvenlik sorusunun cevabını oluşturmanız istenecektir. Cevabı oluşturduktan sonra, donanım bilgileriniz otomatik olarak veritabanına kaydedilecek ve bu admin kullanıcısına sadece siz erişebileceksiniz.
 
-### License Verification
+- Artık yeni kullanıcılar oluşturabilir, lisans anahtarları üretebilir, silebilir ve güncelleyebilirsiniz. Programın birçok özelliğini içeride keşfedebilir ve kullanabilirsiniz.
 
-Once the user is authenticated, the system verifies the validity of their license key. If the license key is valid and matches the user's account, the user is granted access to the application.
-
-### User Management
-
-Auth System provides comprehensive user management functionalities for both administrators and users. Administrators can manage user accounts, licenses, and view logs of user activities. Users, on the other hand, can update their information, manage their license keys, and switch to the application.
-
-### Logging
-
-All activities and events within the Auth System application are logged for auditing and tracking purposes. Logs are stored both in the database and in the program directory to ensure redundancy and backup.
-
-### Database Setup
-
-To use the Auth System application, users need to set up the required database and configure the application to use it for storing user information, license keys, and logs. Detailed instructions for database setup can be found in the documentation.
-
-In summary, the Auth System application serves as a robust authentication and user management solution, ensuring secure access to the associated application and providing administrators with the tools they need to manage users effectively.
-
-For detailed usage instructions and setup guide, please refer to the documentation.
+## Özelleştirme
+Program, kullanıcılar , lisans anahtarları gibi çeşitli ayarların özelleştirilmesine izin verir. Kullanıcılar bu ayarları kendi gereksinimlerine göre kolayca değiştirebilirler.
 </samp>
-
 </p>
