@@ -42,8 +42,12 @@
 <p align="center">
   <samp>
    How does theAuth System App work?
-
+    
 Auth System is a comprehensive user management and authentication solution consisting of two main projects: Auth System Admin and Auth System Users.
+
+Auth System is primarily an authorization system that redirects users to a specific application if they have a valid license key. All user information is encrypted and managed securely, allowing only one device entry and access per user account. This prevents multiple users from using the same license key and ensures that each license key is tied to a single user.
+
+In essence, this application serves as a foundational service for licensing, providing user verification to control access to your existing application. It acts as a bridge to authenticate users and manage licenses effectively.
 
 ## Auth System Admin
 
