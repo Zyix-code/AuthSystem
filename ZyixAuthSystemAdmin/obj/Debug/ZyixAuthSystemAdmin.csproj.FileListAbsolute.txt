@@ -1,0 +1,10 @@
+C:\Users\Teknik Servis\Desktop\Proje\ZyixAuthSystem\ZyixAuthSystemAdmin\bin\Debug\ZyixAuthSystemAdmin.exe.config
+C:\Users\Teknik Servis\Desktop\Proje\ZyixAuthSystem\ZyixAuthSystemAdmin\bin\Debug\ZyixAuthSystemAdmin.exe
+C:\Users\Teknik Servis\Desktop\Proje\ZyixAuthSystem\ZyixAuthSystemAdmin\bin\Debug\ZyixAuthSystemAdmin.pdb
+C:\Users\Teknik Servis\Desktop\Proje\ZyixAuthSystem\ZyixAuthSystemAdmin\bin\Debug\System.CodeDom.dll
+C:\Users\Teknik Servis\Desktop\Proje\ZyixAuthSystem\ZyixAuthSystemAdmin\bin\Debug\System.CodeDom.xml
+C:\Users\Teknik Servis\Desktop\Proje\ZyixAuthSystem\ZyixAuthSystemAdmin\obj\Debug\ZyixAuthSystemAdmin.csproj.AssemblyReference.cache
+C:\Users\Teknik Servis\Desktop\Proje\ZyixAuthSystem\ZyixAuthSystemAdmin\obj\Debug\ZyixAuthSystemAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Teknik Servis\Desktop\Proje\ZyixAuthSystem\ZyixAuthSystemAdmin\obj\Debug\ZyixAuthSystemAdmin.csproj.CopyComplete
+C:\Users\Teknik Servis\Desktop\Proje\ZyixAuthSystem\ZyixAuthSystemAdmin\obj\Debug\ZyixAuthSystemAdmin.exe
+C:\Users\Teknik Servis\Desktop\Proje\ZyixAuthSystem\ZyixAuthSystemAdmin\obj\Debug\ZyixAuthSystemAdmin.pdb

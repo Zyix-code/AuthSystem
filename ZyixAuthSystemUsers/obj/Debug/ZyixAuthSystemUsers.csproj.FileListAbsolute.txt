@@ -1,0 +1,7 @@
+C:\Users\Teknik Servis\Desktop\Proje\ZyixAuthSystem\ZyixAuthSystemUsers\bin\Debug\ZyixAuthSystemUsers.exe.config
+C:\Users\Teknik Servis\Desktop\Proje\ZyixAuthSystem\ZyixAuthSystemUsers\bin\Debug\ZyixAuthSystemUsers.exe
+C:\Users\Teknik Servis\Desktop\Proje\ZyixAuthSystem\ZyixAuthSystemUsers\bin\Debug\ZyixAuthSystemUsers.pdb
+C:\Users\Teknik Servis\Desktop\Proje\ZyixAuthSystem\ZyixAuthSystemUsers\obj\Debug\ZyixAuthSystemUsers.csproj.AssemblyReference.cache
+C:\Users\Teknik Servis\Desktop\Proje\ZyixAuthSystem\ZyixAuthSystemUsers\obj\Debug\ZyixAuthSystemUsers.csproj.CoreCompileInputs.cache
+C:\Users\Teknik Servis\Desktop\Proje\ZyixAuthSystem\ZyixAuthSystemUsers\obj\Debug\ZyixAuthSystemUsers.exe
+C:\Users\Teknik Servis\Desktop\Proje\ZyixAuthSystem\ZyixAuthSystemUsers\obj\Debug\ZyixAuthSystemUsers.pdb
