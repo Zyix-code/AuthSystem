@@ -43,60 +43,29 @@
   <samp>
    How does theAuth System App work?
     
-Auth System is a comprehensive user management and authentication solution consisting of two main projects: Auth System Admin and Auth System Users.
+The Auth System application functions as an authentication and user management system with the primary purpose of authorizing users to access a specific application based on their license key.
 
-Auth System is primarily an authorization system that redirects users to a specific application if they have a valid license key. All user information is encrypted and managed securely, allowing only one device entry and access per user account. This prevents multiple users from using the same license key and ensures that each license key is tied to a single user.
+### User Authentication
 
-In essence, this application serves as a foundational service for licensing, providing user verification to control access to your existing application. It acts as a bridge to authenticate users and manage licenses effectively.
+When a user attempts to access the application, the Auth System first authenticates the user's credentials, including their username, password, and license key. 
 
-## Auth System Admin
+### License Verification
 
-Auth System Admin allows administrators to perform various administrative tasks including managing users, licenses, and viewing logs.
+Once the user is authenticated, the system verifies the validity of their license key. If the license key is valid and matches the user's account, the user is granted access to the application.
 
-### Manage Users
+### User Management
 
-- **Add User:** Add a new user to the system.
-- **Delete User:** Delete an existing user from the system.
-- **Update User E-mail:** Update the email address of a user.
-- **Update User Password:** Update the password of a user.
-- **Delete User Hardware Information:** Delete hardware information (e.g., MAC address, IP address) associated with a user.
-- **Show All Users:** View a list of all users registered in the system.
+Auth System provides comprehensive user management functionalities for both administrators and users. Administrators can manage user accounts, licenses, and view logs of user activities. Users, on the other hand, can update their information, manage their license keys, and switch to the application.
 
-### Manage License
+### Logging
 
-- **Add License Key:** Add a new license key to the system.
-- **Delete License Key:** Delete an existing license key from the system.
-- **Update User License Key:** Update the license key associated with a user.
-- **Delete User License Key:** Delete the license key associated with a user.
-- **Update User License Expiration Date:** Update the expiration date of a user's license.
-- **Update License Username:** Update the username associated with a license.
-- **Update License is Active:** Activate or deactivate a license.
-- **Show All Licenses:** View a list of all license keys registered in the system.
+All activities and events within the Auth System application are logged for auditing and tracking purposes. Logs are stored both in the database and in the program directory to ensure redundancy and backup.
 
-### View Logs
+### Database Setup
 
-- **View Logs in the Last 48 Hours:** View logs recorded in the last 48 hours.
-- **Clear Logs:** Clear all logs from the system.
+To use the Auth System application, users need to set up the required database and configure the application to use it for storing user information, license keys, and logs. Detailed instructions for database setup can be found in the documentation.
 
-## Auth System Users
-
-Auth System Users is designed for users to manage their own information and licenses.
-
-### Update User Information
-
-- **Update Username:** Update the username.
-- **Update Password:** Update the password.
-- **Update Email Address:** Update the email address.
-
-### Manage User License
-
-- **Enter New License Key:** Enter a new license key.
-- **Check License Expiry Date:** Check the expiration date of the license.
-- **Change License Key:** Change the current license key.
-
-### Switch to Application
-
-- **Switch to Application:** If a valid license is available, redirect the user to the application.
+In summary, the Auth System application serves as a robust authentication and user management solution, ensuring secure access to the associated application and providing administrators with the tools they need to manage users effectively.
 
 For detailed usage instructions and setup guide, please refer to the documentation.
 </samp>
