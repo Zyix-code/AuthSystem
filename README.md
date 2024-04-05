@@ -4,7 +4,7 @@
 
 <p align="center">
   <samp>
-    Hello there, I'm Selcuk! 👋<br>
+    Merhaba, ben Selçuk! 👋<br>
   </samp>
 </p>
 
@@ -29,7 +29,7 @@
   </a>
 </p>
 
-<h3 align="center">Some Languages I Use 🏫</h3>
+<h3 align="center">Kullandığım, bildiğim bazı diller 🏫</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat-square" alt="C">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript">
@@ -41,7 +41,7 @@
 
 <p align="center">
   <samp>
-   How does theAuth System App work?
+     Auth System nasıl çalışır?
     
 The Auth System application functions as an authentication and user management system with the primary purpose of authorizing users to access a specific application based on their license key.
 
